@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Dindigul
-tags: Dindigul OWASP Chapter India
+title: OWASP Gwalior
+tags: Gwalior OWASP Chapter India
 level: 4
 region: Asia
 ---
