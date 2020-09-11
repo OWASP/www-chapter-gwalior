@@ -19,8 +19,7 @@ postal-code:
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-{front matter for this file}
-
+Welcome to the Gwalior chapter homepage. The chapter board is Sumit Ojha and Amit Ojha. Follow chapter news on Facebook | Twitter | Meetup.com
 ```
 - layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 - title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
