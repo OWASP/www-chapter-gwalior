@@ -38,9 +38,28 @@ Would you like to speak on the upcoming OWASP Gwalior Webinar? [Contact Us](mail
     - Abstract of the presentation
     - Presentation time required
  
+## Upcoming Meetups
 
-## Local News
+**22th April, 2021 - 10:00 AM**
+
+OWASP Gwalior is organising  `Career in Cyber Security` Webinar.
+
+
+## Previous Meetups
+
+**20th September, 2020 - 10:00 AM**
+
+OWASP Gwalior is organising  `What is Cyber Security and why do we need it?` Webinar.
+
+**30th Aug, 2020 - 11:00 AM**
+
+OWASP Gwalior is organising  `What is Cyber Security and why do we need it?` Webinar.
 
 **28th Aug, 2020 - 11:00 AM**
 
 OWASP Gwalior in Collaboration with Indian Cyber Squad organising  `Cyber-Crime and How to be safe online` Webinar.
+
+**30th April, 2020 - 09:00 AM**
+
+OWASP Gwalior is organising  `Cryptography and Cryptographic protocol` Webinar.
+
