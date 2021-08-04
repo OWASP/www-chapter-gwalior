@@ -1,9 +1,10 @@
 ---
-title: pastevents
-layout:  col-sidebar
+title: PastEvents
+displaytext: Past Events
+layout:  null
 tab: true
-order: 1
-tags: Gwalior OWASP Chapter India
+order: 2
+tags: gwalior
 
 ---
 
