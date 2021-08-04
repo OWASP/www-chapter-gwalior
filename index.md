@@ -1,11 +1,14 @@
 ---
 
 layout: col-sidebar
-title: OWASP Gwalior
+title: OWASP-Gwalior-Chapter
+site_side: true
 tags: gwalior
-meetup-group: OWASP-Gwalior-Chapter
-level: 4
+level: 3
 region: Asia
+altfooter: true
+meetup-group: OWASP-Gwalior-Chapter
+
 
 ---
 
