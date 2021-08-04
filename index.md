@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Gwalior
-tags: Gwalior OWASP Chapter India
+tags: gwalior
 meetup-group: OWASP-Gwalior-Chapter
 level: 4
 region: Asia
