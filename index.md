@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP-Gwalior-Chapter
+title: OWASP Gwalior
 site_side: true
 tags: gwalior
 level: 3
