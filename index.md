@@ -26,7 +26,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP Gwalior Webinar? [Contact Us](mailto:sumit.ojha@owasp.org) or [Register Here](https://forms.gle/)
+Would you like to speak on the upcoming OWASP Gwalior Webinar? [Contact Us](mailto:sumit.ojha@owasp.org) or Register Here
 
 **Email Format :**
 
